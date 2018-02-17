@@ -1,4 +1,4 @@
 service:
-  name: Itinerary Service DEV
+  name: itineraries
 server:
-port: 8200
+port: 8888
