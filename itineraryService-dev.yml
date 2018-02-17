@@ -1,4 +1,4 @@
 service:
   name: itineraries
-server:
+server: localhost
 port: 8888
