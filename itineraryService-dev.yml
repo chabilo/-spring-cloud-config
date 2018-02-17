@@ -1,0 +1,4 @@
+service:
+  name: Itinerary Service DEV
+server:
+port: 8200
